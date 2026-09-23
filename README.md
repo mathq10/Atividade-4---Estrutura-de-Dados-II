@@ -168,19 +168,19 @@ Abaixo está o resultado da execução mostrando os 20 clientes gerados automati
 
 A execução demonstra que os clientes são atendidos seguindo a ordem de chegada (FIFO):
 
-![Fila clássica](prints/fila-classica.png)
+![Fila clássica](fila-atendimento-hands-on/prints/fila-classica.png)
 
 ## Fila circular
 
 A execução demonstra a movimentação dos índices `front` e `rear` e a reutilização das posições liberadas:
 
-![Fila circular](prints/fila-circular.png)
+![Fila circular](fila-atendimento-hands-on/prints/fila-circular.png)
 
 ## Fila de prioridade
 
 A execução demonstra que clientes com prioridade 1 são atendidos antes dos clientes de prioridade 2 e 3:
 
-![Fila de prioridade](prints/fila-prioridade.png)
+![Fila de prioridade](fila-atendimento-hands-on/prints/fila-prioridade.png)
 
 ---
 
