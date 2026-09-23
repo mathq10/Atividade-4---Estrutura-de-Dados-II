@@ -162,7 +162,7 @@ Em seguida, o sistema apresenta:
 
 Abaixo está o resultado da execução mostrando os 20 clientes gerados automaticamente:
 
-![Clientes gerados](prints/clientes.png)
+![Clientes gerados](fila-atendimento-hands-on/prints/clientes.png)
 
 ## Fila clássica
 
